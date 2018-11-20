@@ -1,0 +1,21 @@
+#wrapper{
+    ul{
+        margin: 0;
+        padding: 0;
+        li{
+            width: 100px;
+            height: 40px;
+            line-height: 40px;
+            border: 1px solid #ccc;
+            display: inline-block;
+            text-align: center;
+            cursor: pointer;
+            a{
+                text-decoration: none;
+                color: #666;
+                display:block;
+            }
+        }  
+    }
+
+}
